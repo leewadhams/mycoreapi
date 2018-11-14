@@ -50,7 +50,7 @@ You can view the state of the running containers using:
 ```
 * Start the **Webjobs**:
 
-MacOS
+MacOSS
 ```
 ASPNETCORE_ENVIRONMENT=Development dotnet run
 ```
