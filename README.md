@@ -73,7 +73,7 @@ dotnet run
 ```
 * Browse to `http://localhost:5020/accounts/abc/dashboard`
 
-### Application logss
+### Application logs
 Application logs are logged to [Elasticsearch](https://www.elastic.co/products/elasticsearch) and can be viewed using [Kibana](https://www.elastic.co/products/kibana) at http://localhost:5601
 
 ### Development 
